@@ -1,4 +1,4 @@
-pyspark
-kafka-python
-mysql-connector-python
-pandas
+PySpark==3.5.1
+kafka-python==2.0.2
+MySQL-connector-python==9.3.0
+delta-spark==3.2.0
